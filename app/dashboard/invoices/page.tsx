@@ -1,5 +1,5 @@
 function Invoices() {
-  return <p>Invoices</p>
+  return <p>Invoices</p>;
 }
 
-export default Invoices
+export default Invoices;
